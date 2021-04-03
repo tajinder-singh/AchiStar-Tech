@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "Welcome to SimpliLearn....DevOps Practioner Certification- Project1\n"
+MESSAGE = "Welcome to SimpliLearn!!!\n DevOps Practioner Certification- Docker Jenkins CI/CD Pipeline\n"
 
 app = Flask(__name__)
 
