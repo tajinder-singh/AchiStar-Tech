@@ -18,7 +18,7 @@ pipeline {
 
       steps {
 
-        git 'https://github.com/tajinder-singh/Docker-Jenkins-Demo'
+        git 'https://github.com/tajinder-singh/AchiStar-Tech.git'
 
       }
 
