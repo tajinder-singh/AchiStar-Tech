@@ -4,7 +4,7 @@ Hello world Docker image for testing :).
 
 This is referenced in <https://blog.openshift.com/telepresence-local-development/> and at various places in [the Telepresence documentation](https://www.telepresence.io/discussion/overview).
 
-## Usage
+### Usage
 
 ### Run it locally
 
